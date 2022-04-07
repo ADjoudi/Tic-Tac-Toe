@@ -48,6 +48,7 @@ body {
   align-items: center;
   justify-content: center;
   background-color: rgba(53, 51, 50, 0.253);
+  visibility: hidden;
 }
 
 .container .message h1 {
